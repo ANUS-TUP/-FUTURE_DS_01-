@@ -54,6 +54,6 @@ Platforms over Countries etc.
 
 📬 Contact
 
-Made with 💻 by SUBHAJIT MONDAL
+Made with 💻 by ANUSTUP DAS
 
 📩 Feel free to reach out at anustupdas311@gmail.com
